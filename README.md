@@ -1,6 +1,7 @@
 # ProjetoA34Sem
 
 This project was created by
+
 Ayme Lozano
 
 Felipe Avelino
@@ -16,5 +17,6 @@ Leonardo Souza
 Ruben Guedes
 
 for IA and Big Data classes on São Judas Tadeu University - 2023
+
 
 All rights reserved © 2023
