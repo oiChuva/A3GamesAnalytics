@@ -6,7 +6,7 @@ Ele relaciona os jogos com base nos seguintes campos:
 Rank -> Diz respeito a um ranking dos jogos mais vendidos mundialmente. Está diretamente relacionado à coluna de vendas globais e é caracterizado por u número inteiro aditivo (típico de rankings)
 Name -> Coluna contendo o nome dos jogos apresentados. É um texto simples.
 Platform -> Coluna de texto simples que categoriza os jogos baseado em suas respectivas plataformas onde o jogo pode ser jogado (alguns jogos são multiplataformas, mas são classificados do mesmo jeito a partir das vendas de cada plataforma)
-Year -> Coluna numérico que contêm o ano de lançamento do jogo
+Year -> Coluna numérica que contêm o ano de lançamento do jogo
 Genre -> Coluna de texto que demonstra o gênero principal do jogo, para o qual podemos agrupar os jogos.
 Publisher -> Define a publicadora oficial do jogo, em texto simples.
 NA_Sales -> Demonstra as vendas totais (em milhões de cópias) de determinado jogo apenas na América do Norte. Possuí números decimais.
@@ -15,4 +15,4 @@ JP_Sales -> Demonstra as vendas totais (em milhões de cópias) de determinado j
 Other_Sales -> Demonstra as vendas totais em milhões de determinado jogo nos demais países no mundo, excluindo os 3 anteriormente citados. Possuí números decimais.
 Global_Sales -> Total de vendas em milhões de determinado jogo no mundo inteiro. O valor não necessariamente é igual a soma de todos os anteriores. Possuí números decimais.
 
-A variável target análisada será "o maior gênero de jogo em ascenção e a previsão dos possíveis próximos gêneros em ascenção".
+A variável target análisada será "os gêneros de jogos mais populares e rentáveis divididos por épocas e a previsão dos prováveis próximos gêneros em ascenção".
