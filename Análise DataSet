@@ -15,4 +15,4 @@ JP_Sales -> Demonstra as vendas totais (em milhões de cópias) de determinado j
 Other_Sales -> Demonstra as vendas totais em milhões de determinado jogo nos demais países no mundo, excluindo os 3 anteriormente citados. Possuí números decimais.
 Global_Sales -> Total de vendas em milhões de determinado jogo no mundo inteiro. O valor não necessariamente é igual a soma de todos os anteriores. Possuí números decimais.
 
-A variável target análisada será "os gêneros de jogos mais populares e rentáveis divididos por épocas e a previsão dos prováveis próximos gêneros em ascenção".
+Target: Baseado em uma análise de Big Data em relação às publicadoras em relação com as vendas Totais, após uma definição de peso das empresas e generos, criar uma especulação(target) do próximo genêro em ascenção nos próximos anos.
